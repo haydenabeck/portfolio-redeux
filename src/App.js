@@ -6,8 +6,8 @@ import Project from "./components/Project.js";
 function App() {
   return (
     <div>
-      <Project />
       <Header />
+      <Project />
       <Footer />
       {/* OTHER WHOLE COMPONENTS */}
     </div>
