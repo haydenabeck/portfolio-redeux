@@ -3,6 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <>
+    <footer>
       <div class="social-icons">
         <ul>
           <li>
@@ -17,6 +18,7 @@ function Footer() {
           </li>
         </ul>
       </div>
+      </footer>
     </>
   );
 }
