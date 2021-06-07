@@ -1,5 +1,7 @@
 import React from "react";
-import Table from "./components/Table.js";
+import Footer from "./components/Footer.js";
+import Header from "./components/Header.js";
+import Project from "./components/Project.js";
 
 function App() {
   return (
