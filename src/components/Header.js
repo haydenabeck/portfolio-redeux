@@ -40,7 +40,7 @@ function Header() {
                 <a
                   class="nav-link"
                   target="_blank"
-                  href="../assets/IMG_3385.JPG"
+                  href="https://docs.google.com/document/d/10HvmDd7pAeAJbiQbveTuQE3MQie4pSnfS4p0id9BwWU/edit"
                 >
                   Resume
                 </a>

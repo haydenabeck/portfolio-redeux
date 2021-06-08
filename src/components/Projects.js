@@ -84,27 +84,42 @@ function Projects() {
         </div>
       </div>
       <div class="card" style={{ width: "18rem" }}>
-        <img src="..." class="card-img-top" alt="..." />
+        <img
+          src="../assets/budgettracker.png"
+          class="card-img-top"
+          alt="budgettracker"
+        />
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
+          <h5 class="card-title">Budget Tracker</h5>
           <p class="card-text">
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+            An app designed to help users track finances. Enter your
+            gains/losses and receive a graph charting your financial success or
+            failure.
           </p>
-          <a href="#" class="btn btn-primary">
+          <a
+            href="https://mighty-basin-63060.herokuapp.com/"
+            class="btn btn-primary"
+          >
             Check out the project
           </a>
         </div>
       </div>
       <div class="card" style={{ width: "18rem" }}>
-        <img src="..." class="card-img-top" alt="..." />
+        <img
+          src="../assets/employeedirectory.png"
+          class="card-img-top"
+          alt="employee directory"
+        />
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
+          <h5 class="card-title">Employee Directory</h5>
           <p class="card-text">
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+            An app designed to sort and list employees by name or age for any
+            user's company/workplace.
           </p>
-          <a href="#" class="btn btn-primary">
+          <a
+            href="https://fierce-bayou-61857.herokuapp.com/"
+            class="btn btn-primary"
+          >
             Check out the project
           </a>
         </div>
