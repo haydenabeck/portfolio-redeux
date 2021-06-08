@@ -6,6 +6,8 @@ https://portfolioredeux.herokuapp.com/
 
 https://github.com/haydenabeck/portfolio-redeux
 
+https://haydenabeck.github.io/portfolio-redeux/
+
 ## Contributors
 
 @haydenabeck
