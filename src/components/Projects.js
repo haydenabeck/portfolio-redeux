@@ -44,7 +44,7 @@ function Projects() {
       </div>
       <div class="card" style={{ width: "18rem" }}>
         <img
-          src="../assets/bluelinetracker.png"
+          src="../assets/techblog.png"
           class="card-img-top"
           alt="tech blog"
         />
@@ -63,14 +63,22 @@ function Projects() {
         </div>
       </div>
       <div class="card" style={{ width: "18rem" }}>
-        <img src="..." class="card-img-top" alt="..." />
+        <img
+          src="../assets/workouttracker.png"
+          class="card-img-top"
+          alt="workout tracker"
+        />
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
+          <h5 class="card-title">Workout Tracker</h5>
           <p class="card-text">
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+            A workout tracking app that lets one pick their workout type, fill
+            out reps, sets, distance traveled and time to then track your
+            workout progress.
           </p>
-          <a href="#" class="btn btn-primary">
+          <a
+            href="https://secure-ridge-25028.herokuapp.com/"
+            class="btn btn-primary"
+          >
             Check out the project
           </a>
         </div>

@@ -22,7 +22,7 @@ This site acts as a host to all of my coding work. There's information about me,
 
 ## Screenshots
 
-<img src="" alt="nuthin here for now">
+<img src="./src/assets/IMG_3385.JPG" alt="portfolio">
 
 ## Contact
 
